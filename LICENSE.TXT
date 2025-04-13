@@ -1,0 +1,19 @@
+Copyright (c) [2025] [Zaid barham]
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+By using this software, you agree to the following restrictions:
+
+1. **Modification**: You are not allowed to modify, alter, or change the source code or binary in any way. This includes but is not limited to reverse engineering, decompiling, or disassembling the software.
+
+2. **Redistribution**: You are not allowed to redistribute, re-export, or share the software in any form, whether modified or unmodified, without explicit permission from the copyright holder.
+
+3. **Commercial Use**: You are not allowed to use this software for commercial purposes, including but not limited to selling, licensing, or monetizing the software, or any product derived from it.
+
+4. **Ownership and Claims**: You are not allowed to claim ownership or authorship of this software or any derivative works. You are also not allowed to use the software in a way that misrepresents or falsely claims any ownership or attribution.
+
+5. **Illegal Activities**: You agree not to use the software for any illegal activities or in a way that violates any laws, regulations, or third-party rights.
+
+Failure to comply with these terms will result in the termination of your rights to use this software.
+
+For permission to use, modify, or distribute this software, contact the copyright holder at [barhamzaid01@gmail.com].
