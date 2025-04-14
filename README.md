@@ -18,10 +18,15 @@ Notice this tool is for educational purposes
   <pre> <code> sudo apt install build-essential -y</code> </pre>
 ### 4. Install Tor
   <pre> <code> sudo apt install tor -y</code> </pre>
-### 5. ALlow
+### 5.Download
+<pre><code>git clone
+https://github.com/thezaid1234/AKN_DDOS.git
+cd AKN_DDOS
+</pre></code>
+### 6. ALlow
   <pre> <code> chmod +x DDOS</code> </pre>
-### 6. Start tor
+### 7. Start tor
   <pre> <code>service tor start</code> </pre>
-### 7. Run
+### 8. Run
   <pre> <code>sudo ./DDOS</code> </pre>
-### 8. If you want to use this for commercial uses or rexport or take ownership and take the code for it basically have full controll contact barhamzaid01@gmail.com
+### 9. If you want to use this for commercial uses or rexport or take ownership and take the code for it basically have full controll contact barhamzaid01@gmail.com
