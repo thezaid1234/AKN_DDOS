@@ -24,6 +24,7 @@ https://github.com/thezaid1234/AKN_DDOS.git
 cd AKN_DDOS
 </pre></code>
 ### 6. ALlow
+  <pre><code>cd AKN_DDOS </code></pre>
   <pre> <code> chmod +x DDOS</code> </pre>
 ### 7. Start tor
   <pre> <code>service tor start</code> </pre>
