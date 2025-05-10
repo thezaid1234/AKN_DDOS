@@ -1,55 +1,73 @@
-name: Bug Report
-description: Help us identify and fix bugs by filling out the details below.
-title: "[BUG]: <short description>"
-labels: [bug, needs-triage]
+name: Bug report
+description: Create a report to help us improve
+title: "[BUG] "
+labels: ["bug"]
 assignees: []
-projects: []
 
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting a bug! Please provide as much detail as possible.
-
-  - type: input
-    id: bug-summary
-    attributes:
-      label: Bug Summary
-      description: A brief description of the issue.
-      placeholder: "e.g., 'App crashes when saving a file.'"
-
-  - type: textarea
-    id: details
-    attributes:
-      label: Details
-      description: Provide all relevant information:
-        - Steps to reproduce
-        - Expected behavior
-        - Actual behavior
-      placeholder: |
-        **Steps to Reproduce:**
-        1. Go to...
-        2. Click on...
-        3. See the error...
-
-        **Expected Behaviour:**  
-        Describe what should have happened.
-
-        **Actual Behaviour:**  
-        Describe what happened instead, including error messages or codes.
-      value: |
-        **Steps to Reproduce:**
-        1. 
-        2. 
-        3. 
-
-        **Expected Behaviour:**  
-
-        **Actual Behaviour:**  
+        ## 🐛 Bug Report
+        Thanks for taking the time to fill this out.
 
   - type: input
     id: environment
     attributes:
       label: Environment
-      description: Include OS, browser, and app version details.
-      placeholder: "e.g., Windows 10, Chrome 114, App v2.3.1"
+      description: OS, browser, app version, etc.
+      placeholder: "e.g., Windows 11, Chrome 120, Node.js 20"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Clear steps to trigger the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See the error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Screenshots or Logs
+      description: Paste logs or add screenshots (if any).
+      placeholder: |
+        Logs:
+        ```
+        Error: something broke
+        ```
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How serious is this issue?
+      options:
+        - Critical - blocks all usage
+        - High - affects major features
+        - Medium - some inconvenience
+        - Low - minor/cosmetic
+    validations:
+      required: true
