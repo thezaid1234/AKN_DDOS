@@ -1,6 +1,6 @@
 # Contributing to AKN_DDOS
 
-Thank you for your interest in contributing to **[Your Project Name]**! Contributions are welcome in the form of issue suggestions and fixes. Since we do not allow forking, we encourage you to contribute by providing fixes or suggestions directly within the GitHub Issues.
+Thank you for your interest in contributing to **AKN_DDOS**! Contributions are welcome in the form of issue suggestions and fixes. Since we do not allow forking, we encourage you to contribute by providing fixes or suggestions directly within the GitHub Issues.
 
 ## How to Contribute
 
