@@ -29,4 +29,6 @@ cd AKN_DDOS
   <pre> <code>service tor start</code> </pre>
 ### 8. Run
   <pre> <code>sudo ./DDOS</code> </pre>
-### 9. If you want to use this for commercial uses or rexport or take ownership and take the code for it basically have full controll contact ghyzhi36@gmail.com.
+### 9. Mac changer install
+  <pre><code>sudo apt install macchanger </code></pre>
+### 10. If you want to use this for commercial uses or rexport or take ownership and take the code for it basically have full controll contact ghyzhi36@gmail.com.
