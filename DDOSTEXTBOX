@@ -1,14 +1,15 @@
 
 
 +------------------------------------------------------------------------------------+
-| 1.GET                                                           11.custom          |
-| 2.POST                                                          12.tor off 	     |
-| 3.PATCH                                                         13.tor on          |
-| 4.DELETE                                                        14.Vpn on          |
-| 5.CONNECT                                                       15.Vpn off         |
-| 6.PUT                                                           16.FTP             |
-| 7.HEAD                                                          17.SSH             |
-| 8.TRACE                                                         18.UDP             |
-| 9.OPTIONS                                                       19.Clear           |
-| 10.ALL                                                                             |
+| 1.GET                                                          12.tor off          |
+| 2.POST                                                         13.tor on 	     |
+| 3.PATCH                                                        14.Vpn on           |
+| 4.DELETE                                                       15.Vpn off          |
+| 5.CONNECT                                                      16.FTP              |
+| 6.PUT                                                          17.SSH              |
+| 7.HEAD                                                         18.UDP              |
+| 8.TRACE                                                        19.Clear            |
+| 9.OPTIONS                                                      20.Mac changing on  |
+| 10.ALL                                                         21.Mac changing off |
+| 11.custom								             |
 +------------------------------------------------------------------------------------+
