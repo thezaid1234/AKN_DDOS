@@ -34,4 +34,4 @@ cd AKN_DDOS
   <pre> <code>sudo ./DDOS</code> </pre>
 ### 11. If you want to use this for commercial uses or rexport or take ownership and take the code for it basically have full controll contact ghyzhi36@gmail.com.
 
-### 12.Pls don't forget to add star if you like this tool. Enjoy!!
+### 12. Pls don't forget to add star if you like this tool. Enjoy!!
