@@ -21,7 +21,7 @@ Once your fix or suggestion is provided, the repository maintainers will review 
 Feel free to engage in discussions within the issues. If needed, we may request clarification or adjustments to your suggested fixes.
 
 ## Code of Conduct
-By participating in this project, you agree to adhere to our [Code of Conduct](link-to-code-of-conduct).
+By participating in this project, you agree to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Reporting Issues
 If you find a bug or have a suggestion for improvement, please open an issue and provide:
