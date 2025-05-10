@@ -9,10 +9,10 @@ body:
     attributes:
       value: |
         ## 🐛 Bug Report
-        Thanks for taking the time to fill this out.
+        Thanks for reporting this issue. Please provide as much detail as possible.
 
   - type: input
-    id: environment
+    id: bug_environment
     attributes:
       label: Environment
       description: OS, browser, app version, etc.
@@ -21,7 +21,7 @@ body:
       required: true
 
   - type: textarea
-    id: steps
+    id: bug_steps
     attributes:
       label: Steps to Reproduce
       description: Clear steps to trigger the bug.
@@ -33,7 +33,7 @@ body:
       required: true
 
   - type: textarea
-    id: expected
+    id: bug_expected
     attributes:
       label: Expected Behavior
       description: What did you expect to happen?
@@ -41,7 +41,7 @@ body:
       required: true
 
   - type: textarea
-    id: actual
+    id: bug_actual
     attributes:
       label: Actual Behavior
       description: What actually happened?
@@ -49,7 +49,7 @@ body:
       required: true
 
   - type: textarea
-    id: context
+    id: bug_logs
     attributes:
       label: Screenshots or Logs
       description: Paste logs or add screenshots (if any).
@@ -60,7 +60,7 @@ body:
         ```
 
   - type: dropdown
-    id: severity
+    id: bug_severity
     attributes:
       label: Severity
       description: How serious is this issue?
