@@ -8,6 +8,7 @@ Notice this tool is for educational purposes
   - UDP flooder (custom implementation)
   - tor
  - Vpn
+ - Mac changer
 ## How to use
 ### 1.Install all libcurl essentails
   <pre> <code> sudo apt update
