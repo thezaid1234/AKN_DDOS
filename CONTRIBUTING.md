@@ -30,4 +30,4 @@ If you find a bug or have a suggestion for improvement, please open an issue and
 - Any relevant logs or screenshots.
 
 ## License
-By contributing, you agree that your contributions will be licensed under the project's license. See the [LICENSE](link-to-license) file for more details.
+By contributing, you agree that your contributions will be licensed under the project's license. See the [LICENSE](LICENSE.TXT) file for more details.
