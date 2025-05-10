@@ -1,6 +1,6 @@
 # AKN DDOS
 Notice this tool is for educational purposes
-![Example Image](https://i.imgur.com/y2PGHeW.png)
+![Example Image](https://i.imgur.com/D9ZwvNA.png)
 ## 🧠Features
   -  HTTP Methods: GET, POST, PATCH, DELETE, HEAD, etc.
   -  SSH/SCP overload (via libcurl)
