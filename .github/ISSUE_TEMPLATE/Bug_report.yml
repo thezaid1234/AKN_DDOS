@@ -1,0 +1,55 @@
+name: Bug Report
+description: Help us identify and fix bugs by filling out the details below.
+title: "[BUG]: <short description>"
+labels: [bug, needs-triage]
+assignees: []
+projects: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a bug! Please provide as much detail as possible.
+
+  - type: input
+    id: bug-summary
+    attributes:
+      label: Bug Summary
+      description: A brief description of the issue.
+      placeholder: "e.g., 'App crashes when saving a file.'"
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide all relevant information:
+        - Steps to reproduce
+        - Expected behavior
+        - Actual behavior
+      placeholder: |
+        **Steps to Reproduce:**
+        1. Go to...
+        2. Click on...
+        3. See the error...
+
+        **Expected Behaviour:**  
+        Describe what should have happened.
+
+        **Actual Behaviour:**  
+        Describe what happened instead, including error messages or codes.
+      value: |
+        **Steps to Reproduce:**
+        1. 
+        2. 
+        3. 
+
+        **Expected Behaviour:**  
+
+        **Actual Behaviour:**  
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include OS, browser, and app version details.
+      placeholder: "e.g., Windows 10, Chrome 114, App v2.3.1"
